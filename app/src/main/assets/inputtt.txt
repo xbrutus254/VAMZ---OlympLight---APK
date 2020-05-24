@@ -1,0 +1,21 @@
+-- data
+0000010011100100#2#Try something like this in 2 steps. Easy right?
+0011010111100100#2#And what about this in two steps? You can do it?
+1000110110110001#2#You will definitely be able to do this .. (2 steps)
+0010001111000100#3#A little harder, but you give it .. (3 steps)
+0000010001101000#2#You're doing slowly, continue with 2 steps.
+1111111111111111#10#This in 10! Come on!
+0010110000110100#12#Can you do something like that in 12 steps? It will be a toy for you!
+1111111111111111#4#Try it in 4 steps! Attention, every move is valuable!
+0010110000110100#10#Don't give up! I give you 10 steps for this!
+1001000000001001#6#Do you dare to do this in 6 steps? Definitely yes, when you got this far!
+1111000000001111#10#You're doing great. (10 steps)
+0111101111011110#4#This in 4! Come on!
+0000011001100000#8#You're getting better, great! (8 steps)
+1010111001110101#12#So you certainly won't have a problem with this! I give you 12 steps.
+1111101011111011#8#You're almost there, great! (8 steps)!
+1110111110111111#8#I see you're going like a saw .. (8 steps)
+1111100110011111#6#Will you put on 6?
+0111111111101011#8#This is the semifinals! 8 steps.
+0110100110010110#9#Hmm, so you got this far? Just to take 9 steps!
+1001111100001111#10#Last level, enjoy it!

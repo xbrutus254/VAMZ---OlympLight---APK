@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OlympLight</string>
+    <string name="button04">Button</string>
+    <string name="button03">Button</string>
+    <string name="button02">Button</string>
+    <string name="button00">Button</string>
+    <string name="button10">Button</string>
+    <string name="title_activity_main_menu">mainMenu</string>
+    <string name="imagebuttonStart">imageButtonStart</string>
+    <string name="imageButtonEnd">imageButtonEnd</string>
+    <string name="imageButtonInfo">imageButtonInfo</string>
+    <string name="imageButtonScore">imageButtonScore</string>
+    <string name="title_activity_game">GameActivity</string>
+
+    <string name="title_activity_gameplay">gameplay</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

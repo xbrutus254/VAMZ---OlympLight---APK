@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/flame">
+
+    <ImageButton
+        android:id="@+id/imageButtonStart"
+        android:layout_width="200dp"
+        android:layout_height="82dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="39dp"
+        android:layout_marginTop="36dp"
+        android:contentDescription="@string/imagebuttonStart"
+        app:srcCompat="@drawable/start"
+        tools:layout_editor_absoluteX="92dp"
+        tools:layout_editor_absoluteY="27dp" />
+
+    <ImageButton
+        android:id="@+id/imageButtonEnd"
+        android:layout_width="200dp"
+        android:layout_height="82dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/imageButtonScore"
+        android:layout_marginBottom="55dp"
+        android:contentDescription="@string/imageButtonEnd"
+        app:srcCompat="@drawable/end"
+        tools:layout_editor_absoluteX="92dp"
+        tools:layout_editor_absoluteY="413dp" />
+
+    <ImageButton
+        android:id="@+id/imageButtonInfo"
+        android:layout_width="200dp"
+        android:layout_height="82dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/imageButtonStart"
+        android:layout_marginBottom="167dp"
+        android:contentDescription="@string/imageButtonInfo"
+        app:srcCompat="@drawable/info"
+        tools:layout_editor_absoluteX="92dp"
+        tools:layout_editor_absoluteY="286dp" />
+
+    <ImageButton
+        android:id="@+id/imageButtonScore"
+        android:layout_width="200dp"
+        android:layout_height="82dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="59dp"
+        android:layout_marginTop="152dp"
+        android:contentDescription="@string/imageButtonScore"
+        app:srcCompat="@drawable/lang"
+        tools:layout_editor_absoluteX="92dp"
+        tools:layout_editor_absoluteY="154dp" />
+
+</android.widget.RelativeLayout>

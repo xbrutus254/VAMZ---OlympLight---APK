@@ -1,0 +1,21 @@
+-- data
+0000010011100100#2#Versuchen Sie so etwas in 2 Schritten. Einfach?
+0011010111100100#2#Und was ist damit in zwei Schritten? Du kannst es schaffen?
+1000110110110001#2#Sie werden dies definitiv tun können. (2 Schritte)
+0010001111000100#3#Etwas schwieriger, aber du gibst es .. (3 Schritte)
+0000010001101000#2#Sie machen langsam, fahren Sie mit 2 Schritten fort.
+1111111111111111#10#Probieren Sie es in 10 Schritten! Achtung, jede Bewegung ist wertvoll!
+0010110000110100#12#Können Sie so etwas in 12 Schritten tun? Es wird ein Spielzeug für Sie sein!
+1111111111111111#4#Probieren Sie es in 4 Schritten! Achtung, jede Bewegung ist wertvoll!
+0010110000110100#10#Gib nicht auf! Ich gebe Ihnen 10 Schritte dafür!
+1001000000001001#6#Wagen Sie es, dies in 6 Schritten zu tun? Auf jeden Fall ja, wenn du so weit gekommen bist!
+1111000000001111#10#Es geht dir gut. (10 Schritte)
+0111101111011110#4#Wirst du 6 anziehen? Komm schon!
+0000011001100000#8#Du wirst besser, großartig! (8 Schritte)
+1010111001110101#12#Damit haben Sie sicher kein Problem! Ich gebe dir 12 Schritte.
+1111101011111011#8#Du bist fast da, großartig! (8 Schritte)!
+1110111110111111#8#Ich sehe, du gehst wie eine Säge. (8 Schritte)
+1111100110011111#6#Wirst du 6 anziehen?
+0111111111101011#8#Dies ist das Halbfinale! 8 Schritte.
+0110100110010110#9#Hmm, bist du so weit gekommen? Nur um 9 Schritte zu machen!
+1001111100001111#10#Letztes Level, viel Spaß!
